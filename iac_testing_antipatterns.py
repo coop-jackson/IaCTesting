@@ -1,3 +1,4 @@
+# This is Cooper Jackson, making changes to a file
 # -*- coding: utf-8 -*-
 """
 Created on Thu Oct  8 23:40:31 2020
